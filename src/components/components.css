@@ -1,0 +1,66 @@
+
+.menu_image{
+    width: 24px;
+    height: 16px;
+    margin-right: 87px;
+    margin-top: 56px;
+}
+
+.logo_image{
+    margin-left: 86px;
+    margin-top: 48px;
+    width: 48px;
+    height: 48px;
+}
+
+.navbar_images{
+    display: flex;
+    justify-content: space-between;
+}
+
+.hero_image{
+    position: absolute;
+    right: 23px;
+}
+
+.title{
+    position: absolute;
+    width: 510px;
+    height: 148px;
+    left: 212px;
+}
+
+.title_text{
+    font-family: 'Galien';
+    font-weight: bold;
+    font-size: 64px;
+    line-height: 74px;
+    letter-spacing: 0.04em;
+    color: #1F3F68;
+}
+
+.paragraph{
+    position: absolute;
+    width: 425px;
+    height: 82px;
+    left: 213px;
+    top: 369px;
+}
+
+.paragraph_text{
+    font-family: 'Gilroy';
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.05em;
+    color: #1F3F68;
+    opacity: 0.6;
+}
+@font-face {
+	font-family: 'Galien'; 
+	src: url("../fonts/Galien/TTF/Galien-Regular.ttf")format("woff"); 
+}
+
+@font-face {
+	font-family: 'Gilroy'; 
+	src: url("../fonts/Gilroy/Gilroy-Regular.woff")format("woff"); 
+}
