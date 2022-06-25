@@ -1,6 +1,6 @@
 
 import React from "react";
-import "./components.css"
+import "../components.css"
 
 export const HomepageTitle = () => (
     <div className="title">

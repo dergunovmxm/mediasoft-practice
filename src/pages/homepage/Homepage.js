@@ -1,7 +1,8 @@
 import React, { Fragment } from "react";
 import { Hero } from "../../components/Hero";
-import { HomepageTitle } from "../../components/HomepageTitle";
-import { HomepageParagraph }  from "../../components/HomepageParagraph";
+import { HomepageTitle } from "../../components/Homepage/HomepageTitle";
+import { HomepageParagraph }  from "../../components/Homepage/HomepageParagraph";
+import { HomepageButton } from "../../components/Homepage/HomepageButton";
 
 
 export const Homepage = () => {
@@ -10,6 +11,7 @@ export const Homepage = () => {
             <Hero/>
             <HomepageTitle/>
             <HomepageParagraph/>
+            <HomepageButton/>
         </Fragment>
     )
 }

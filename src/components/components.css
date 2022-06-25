@@ -1,11 +1,4 @@
 
-.menu_image{
-    width: 24px;
-    height: 16px;
-    margin-right: 87px;
-    margin-top: 56px;
-}
-
 .logo_image{
     margin-left: 86px;
     margin-top: 48px;
@@ -20,7 +13,10 @@
 
 .hero_image{
     position: absolute;
-    right: 23px;
+    width: 687.25px;
+    height: 579.31px;
+    left: 655.38px;
+    top: 133px;
 }
 
 .title{
@@ -55,6 +51,25 @@
     color: #1F3F68;
     opacity: 0.6;
 }
+
+
+.button_content{
+    position: absolute;
+    width: 220px;
+    height: 56px;
+    left: 213px;
+    top: 522px;
+    background: #5A98D0;
+    box-shadow: 5px 10px 20px rgba(53, 110, 173, 0.2);
+    border-radius: 10px;
+    font-family: 'Gilroy';
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 0.04em;
+    color: #FFFFFF;
+}
+
 @font-face {
 	font-family: 'Galien'; 
 	src: url("../fonts/Galien/TTF/Galien-Regular.ttf")format("woff"); 
