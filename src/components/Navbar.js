@@ -1,9 +1,8 @@
 import React from "react";
 import "./components.css"
 import logo from "../images/logo.png"
-import vector from "../images/Vector.png"
 import {Menu} from '../components/Menu/Menu'
-import { myFunction } from "../scripts/menu";
+
 
 export const Navbar = () => (
     <navbar>
