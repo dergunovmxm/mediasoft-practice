@@ -1,5 +1,5 @@
 import React from "react";
-import "../components.css"
+import "./whatWeDoStyles.css"
 import card_image from "../../images/card_image2.png"
 import arrow from "../../images/arrow1.png"
 

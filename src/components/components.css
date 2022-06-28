@@ -6,69 +6,6 @@
     height: 48px;
 }
 
-.navbar_images{
-    display: flex;
-    justify-content: space-between;
-}
-
-.hero_image{
-    position: absolute;
-    width: 687.25px;
-    height: 579.31px;
-    left: 655.38px;
-    top: 133px;
-}
-
-.title{
-    position: absolute;
-    width: 510px;
-    height: 148px;
-    left: 212px;
-}
-
-.title_text{
-    font-family: 'Galien';
-    font-weight: bold;
-    font-size: 64px;
-    line-height: 74px;
-    letter-spacing: 0.04em;
-    color: #1F3F68;
-}
-
-.paragraph{
-    position: absolute;
-    width: 425px;
-    height: 82px;
-    left: 213px;
-    top: 369px;
-}
-
-.paragraph_text{
-    font-family: 'Gilroy';
-    font-size: 16px;
-    line-height: 26px;
-    letter-spacing: 0.05em;
-    color: #1F3F68;
-    opacity: 0.6;
-}
-
-
-.button_content{
-    position: absolute;
-    width: 220px;
-    height: 56px;
-    left: 213px;
-    top: 522px;
-    background: #5A98D0;
-    box-shadow: 5px 10px 20px rgba(53, 110, 173, 0.2);
-    border-radius: 10px;
-    font-family: 'Gilroy';
-    font-size: 16px;
-    line-height: 26px;
-    text-align: center;
-    letter-spacing: 0.04em;
-    color: #FFFFFF;
-}
 
 .what_we_do_title{
     position: absolute;
@@ -78,236 +15,171 @@
     top: 960px;
 }
 
-.what_we_do_title_text{
+
+.hero_image{
+    width: 687.25px;
+    height: 579.31px;
+    left: 655.38px;
+    top: 133px;
+    position: absolute;
+}
+
+.footer{
+    position: absolute;
+    height: 869px;
+    left: 0px;
+    top: 4292px;
+    background: #316099;
+    border-radius: 0px 200px 0px 0px;
+    width: 1270px;
+
+}
+.line1{
+    position: absolute;
+    height: 0px;
+    left: 0px;
+    top: 391px;
+    opacity: 0.4;
+    border: 1px solid #FFFFFF;
+    width: 1073px;
+}
+.footer_button{
+    position: absolute;
+    height: 56px;
+    left: 853px;
+    top: 165px;
+    
+    background: #5A98D0;
+    border-radius: 10px;
+    font-family: 'Gilroy';
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 0.04em;
+    color: #FFFFFF;
+    width: 220px;
+}
+
+.footer_title{
+    position: absolute;
+    height: 92px;
+    left: 213px;
+    top: 91px;
     font-family: 'Gilroy';
     font-size: 36px;
     line-height: 46px;
     letter-spacing: 0.05em;
-    color: #316099;
-
+    color: #FFFFFF;
+    width: 317px;
 }
 
-.what_we_do_card_1_container{
+.footer p{
     position: absolute;
-    width: 380px;
-    height: 525px;
-    left: 773px;
-    top: 960px;
-    background: #FFFFFF;
-    box-shadow: 5px 20px 50px rgba(16, 112, 177, 0.2);
-    border-radius: 10px
-}
-
-.what_we_do_card_1_image{
-    position: absolute;
-    width: 224px;
-    height: 197px;
-    left: 851px;
-    top: 948px;
-}
-
-.what_we_do_card_1_title{
-    position: absolute;
-    width: 259px;
-    height: 60px;
-    left: 821px;
-    top: 1196px;
-    font-family: 'Gilroy';
-    font-size: 20px;
-    line-height: 30px;
-    letter-spacing: 0.05em; 
-    color: #1F3F68;
-}
-
-.what_we_do_card_1_paragraph{
-    position: absolute;
-    width: 284px;
-    height: 103px;
-    left: 821px;
-    top: 1272px;
-    font-family: 'Gilroy';
-    font-size: 16px;
-    line-height: 26px;
-    letter-spacing: 0.05em;
-    color: #1F3F68;
-    opacity: 0.6;
-}
-
-.what_we_do_card_1_lm{
-    position: absolute;
-    width: 79px;
-    height: 30px;
-    left: 821px;
-    top: 1407px;
-    font-family: 'Gilroy';
-    font-size: 14px;
-    line-height: 30px;
-    letter-spacing: 0.05em;
-    color: #5A98D0;
-}
-
-.what_we_do_card_1_arrow{
-    position: absolute;
-    left: 928px;
-    right: 422px;
-    top: 1414px;
-}
-
-.what_we_do_card_2_container{
-    position: absolute;
-    width: 380px;
-    height: 525px;
-    left: 293px;
-    top: 1256px;
-    background: #FFFFFF;
-    box-shadow: 5px 20px 50px rgba(16, 112, 177, 0.2);
-    border-radius: 10px;
-}
-
-.what_we_do_card_2_image{
-    position: absolute;
-    width: 182px;
-    height: 132px;
-    left: 367px;
-    top: 1304px;
-}
-
-.what_we_do_card_2_title{
-    position: absolute;
-    width: 257px;
-    height: 60px;
-    left: 341px;
-    top: 1492px;
-    font-family: 'Gilroy';
-    font-size: 20px;
-    line-height: 30px;
-    letter-spacing: 0.05em;
-    color: #1F3F68;
-}
-
-.what_we_do_card_2_paragraph{
-    position: absolute;
-    width: 284px;
-    height: 103px;
-    left: 341px;
-    top: 1568px;
-    font-family: 'Gilroy';
-    font-size: 16px;
-    line-height: 26px;
-    letter-spacing: 0.05em;
-    color: #1F3F68;
-    opacity: 0.6;
-}
-
-.what_we_do_card_2_lm{
-    position: absolute;
-    width: 79px;
-    height: 30px;
-    left: 341px;
-    top: 1703px;
-    font-family: 'Gilroy';
-    font-size: 14px;
-    line-height: 30px;
-    letter-spacing: 0.05em;
-    color: #5A98D0;
-}
-
-.what_we_do_card_2_arrow{
-    position: absolute;
-    left: 448px;
-    right: 902px;
-    top: 1710px;
-}
-
-.what_we_do_card_3_container{
-    position: absolute;
-width: 380px;
-height: 525px;
-left: 773px;
-top: 1585px;
-
-background: #FFFFFF;
-/* shadow1 */
-
-box-shadow: 5px 20px 50px rgba(16, 112, 177, 0.2);
-border-radius: 10px;
-}
-
-.what_we_do_card_3_image{
-    position: absolute;
-width: 156px;
-height: 131px;
-left: 873px;
-top: 1634px;
-}
-
-.what_we_do_card_3_title{
-    position: absolute;
-width: 284px;
-height: 60px;
-left: 821px;
-top: 1821px;
-
-font-family: 'Gilroy';
-font-size: 20px;
-line-height: 30px;
-/* or 150% */
-
-letter-spacing: 0.05em;
-
-/* Blue_01 */
-
-color: #1F3F68;
-}
-
-.what_we_do_card_3_paragraph{
-    position: absolute;
-width: 284px;
-height: 103px;
-left: 821px;
-top: 1897px;
-
+width: 460px;
+height: 80px;
+left: 213px;
+top: 215px;
 font-family: 'Gilroy';
 font-size: 16px;
 line-height: 26px;
-/* or 162% */
-
 letter-spacing: 0.05em;
-
-/* Blue_01 */
-
-color: #1F3F68;
-
+color: #FFFFFF;
 opacity: 0.6;
 }
 
-.what_we_do_card_3_lm{
+.footer span{
     position: absolute;
-width: 79px;
-height: 30px;
-left: 821px;
-top: 2032px;
-
-font-family: 'Gilroy';
-font-size: 14px;
-line-height: 30px;
-/* identical to box height, or 214% */
-
-letter-spacing: 0.05em;
-
-/* blue_04 */
-
-color: #5A98D0;
+    height: 26px;
+    left: 213px;
+    top: 779px;
+    font-family: 'Gilroy';
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.05em;
+    color: #FFFFFF;
+    opacity: 0.4;
+    width: 388px;
 }
 
-.what_we_do_card_3_arrow{
+.footer_logo{
     position: absolute;
-    left: 928px;
-    right: 422px;
-    top: 2039px;
+    left: 213px;
+    top: 487px;
+    right: 1009px;
+
 }
 
+.footer h2{
+    width: 125px;
+    height: 46px;
+    left: 277px;
+    top: 468px;
+    font-family: 'Gilroy';
+    font-size: 28px;
+    line-height: 46px;
+    letter-spacing: 0.02em;   
+    color: #FFFFFF;
+    position: absolute;
+}
 
+.footer_title_1{
+    position: absolute;
+    height: 30px;
+    left: 613px;
+    top: 487px;  
+    font-family: 'Gilroy';
+    font-size: 20px;
+    line-height: 30px;   
+    letter-spacing: 0.05em; 
+    color: #FFFFFF;
+    width: 94px;
+}
+
+.footer_title_2{
+    width: 97px;
+    height: 30px;
+    left: 853px;
+    top: 487px;
+    font-family: 'Gilroy';
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0.05em;
+    color: #FFFFFF;
+    position: absolute;
+}
+
+.footer_table{
+    width: 260px;
+    height: 214px;
+    left: 613px;
+    top: 487px;
+    position: absolute;
+    border-spacing: 77px;
+}
+
+.footer_table tr{
+
+    width: 163px;
+    height: 34px;
+    left: 613px;
+    font-family: 'Gilroy';
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.05em;
+    color: #FFFFFF;
+
+}
+.footer_table th{
+    height: 34px;
+    left: 613px;
+    font-family: 'Gilroy';
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.05em;
+    color: #FFFFFF;
+    font-size: bold;
+    width: 163px;
+}
 @font-face {
 	font-family: 'Galien'; 
 	src: url("../fonts/Galien/TTF/Galien-Regular.ttf")format("woff"); 

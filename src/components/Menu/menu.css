@@ -2,8 +2,9 @@
 .dropbtn {
   width: 24px;
   height: 16px;
-  margin-right: 87px;
-  margin-top: 56px;
+  left: 1251px;
+  top: 48px;
+  position: absolute;
 }
 
   

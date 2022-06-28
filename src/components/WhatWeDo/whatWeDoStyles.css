@@ -1,0 +1,206 @@
+.what_we_do_title_text{
+    font-family: 'Gilroy';
+    font-size: 36px;
+    line-height: 46px;
+    letter-spacing: 0.05em;
+    color: #316099;
+
+}
+
+.what_we_do_card_1_container{
+    position: absolute;
+    width: 380px;
+    height: 525px;
+    left: 773px;
+    top: 960px;
+    background: #FFFFFF;
+    box-shadow: 5px 20px 50px rgba(16, 112, 177, 0.2);
+    border-radius: 10px
+}
+
+.what_we_do_card_1_image{
+    position: absolute;
+    width: 224px;
+    height: 197px;
+    left: 851px;
+    top: 948px;
+}
+
+.what_we_do_card_1_title{
+    position: absolute;
+    width: 259px;
+    height: 60px;
+    left: 821px;
+    top: 1196px;
+    font-family: 'Gilroy';
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0.05em; 
+    color: #1F3F68;
+}
+
+.what_we_do_card_1_paragraph{
+    position: absolute;
+    width: 284px;
+    height: 103px;
+    left: 821px;
+    top: 1272px;
+    font-family: 'Gilroy';
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.05em;
+    color: #1F3F68;
+    opacity: 0.6;
+}
+
+.what_we_do_card_1_lm{
+    position: absolute;
+    width: 79px;
+    height: 30px;
+    left: 821px;
+    top: 1407px;
+    font-family: 'Gilroy';
+    font-size: 14px;
+    line-height: 30px;
+    letter-spacing: 0.05em;
+    color: #5A98D0;
+}
+
+.what_we_do_card_1_arrow{
+    position: absolute;
+    left: 928px;
+    right: 422px;
+    top: 1414px;
+}
+
+.what_we_do_card_2_container{
+    position: absolute;
+    width: 380px;
+    height: 525px;
+    left: 293px;
+    top: 1256px;
+    background: #FFFFFF;
+    box-shadow: 5px 20px 50px rgba(16, 112, 177, 0.2);
+    border-radius: 10px;
+}
+
+.what_we_do_card_2_image{
+    position: absolute;
+    width: 182px;
+    height: 132px;
+    left: 367px;
+    top: 1304px;
+}
+
+.what_we_do_card_2_title{
+    position: absolute;
+    width: 257px;
+    height: 60px;
+    left: 341px;
+    top: 1492px;
+    font-family: 'Gilroy';
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0.05em;
+    color: #1F3F68;
+}
+
+.what_we_do_card_2_paragraph{
+    position: absolute;
+    width: 284px;
+    height: 103px;
+    left: 341px;
+    top: 1568px;
+    font-family: 'Gilroy';
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.05em;
+    color: #1F3F68;
+    opacity: 0.6;
+}
+
+.what_we_do_card_2_lm{
+    position: absolute;
+    width: 79px;
+    height: 30px;
+    left: 341px;
+    top: 1703px;
+    font-family: 'Gilroy';
+    font-size: 14px;
+    line-height: 30px;
+    letter-spacing: 0.05em;
+    color: #5A98D0;
+}
+
+.what_we_do_card_2_arrow{
+    position: absolute;
+    left: 448px;
+    right: 902px;
+    top: 1710px;
+}
+
+.what_we_do_card_3_container{
+    position: absolute;
+    width: 380px;
+    height: 525px;
+    left: 773px;   
+    background: #FFFFFF; 
+    box-shadow: 5px 20px 50px rgba(16, 112, 177, 0.2);
+    border-radius: 10px;
+    top: 1585px;
+}
+
+.what_we_do_card_3_image{
+    position: absolute;
+    width: 156px;
+    height: 131px;
+    left: 873px;
+    top: 1634px;
+}
+
+.what_we_do_card_3_title{
+    position: absolute;
+    width: 284px;
+    height: 60px;
+    left: 821px;
+    top: 1821px;
+    font-family: 'Gilroy';
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0.05em;
+    color: #1F3F68;
+}
+
+.what_we_do_card_3_paragraph{
+    position: absolute;
+    width: 284px;
+    height: 103px;
+    left: 821px;
+    top: 1897px;
+    font-family: 'Gilroy';
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.05em;
+    color: #1F3F68;
+    opacity: 0.6;
+}
+
+.what_we_do_card_3_lm{
+    position: absolute;
+    width: 79px;
+    height: 30px;
+    left: 821px;
+    top: 2032px;
+    font-family: 'Gilroy';
+    font-size: 14px;
+    line-height: 30px;
+    letter-spacing: 0.05em;
+    color: #5A98D0;
+}
+
+.what_we_do_card_3_arrow{
+    position: absolute;
+    left: 928px;
+    right: 422px;
+    top: 2039px;
+}

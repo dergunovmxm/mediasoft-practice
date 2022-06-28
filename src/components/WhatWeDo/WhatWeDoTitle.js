@@ -1,6 +1,6 @@
 
 import React from "react";
-import "../components.css"
+import "./whatWeDoStyles.css"
 
 export const WhatWeDoTitle = () => (
     <div className="what_we_do_title">

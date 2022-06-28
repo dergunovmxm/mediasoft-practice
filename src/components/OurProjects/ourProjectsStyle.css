@@ -1,0 +1,132 @@
+.our_project_title_text{
+    position: absolute;
+    height: 92px;
+    left: 213px;
+    top: 2302px;
+    font-family: 'Gilroy';
+    font-size: 36px;
+    line-height: 46px;
+    letter-spacing: 0.05em;
+    color: #1F3F68;
+    width: 227px;
+}
+
+.our_project_paragraph_text{
+    position: absolute;
+    height: 80px;
+    left: 533px;
+    top: 2302px;
+    font-family: 'Gilroy';
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.05em;
+    color: #1F3F68;
+    opacity: 0.6;
+    width: 540px;
+}
+
+.our_project_image1 img{
+    width: 940px;
+    height: 417px;
+    left: 213px;
+    top: 2490px;
+    position: absolute;
+}
+
+.our_project_image1 h1{
+    position: absolute;
+    height: 46px;
+    left: 764px;
+    top: 2538px;
+    font-family: 'Gilroy';
+    font-size: 28px;
+    line-height: 46px; 
+    letter-spacing: 0.05em;
+    color: #FFFFFF;
+    width: 341px;
+}
+
+.our_project_image1 span{
+    position: absolute;
+    width: 244px;
+    height: 46px;
+    left: 870px;
+    top: 2592px;  
+    font-family: 'Gilroy';
+    font-size: 16px;
+    line-height: 46px;  
+    letter-spacing: 0.05em;
+    color: #FFFFFF; 
+    opacity: 0.8;
+}
+
+.our_project_image2 img{
+    width: 422px;
+    height: 417px;
+    left: 213px;
+    top: 3003px;
+    position: absolute;
+}
+
+.our_project_image2 h1{
+    width: 191px;
+    height: 46px;
+    left: 245px;
+    top: 3027px;
+    font-family: 'Gilroy';
+    font-size: 28px;
+    line-height: 46px;
+    letter-spacing: 0.05em;
+    color: #FFFFFF;
+    position: absolute;
+}
+
+.our_project_image2 span{
+    width: 100px;
+    height: 46px;
+    left: 245px;
+    font-family: 'Gilroy';
+    font-size: 16px;
+    line-height: 46px;
+    letter-spacing: 0.05em;  
+    color: #FFFFFF;
+    opacity: 0.8;
+    position: absolute;
+    top: 3077px;
+}
+
+.our_project_image3 img{
+    width: 422px;
+    height: 417px;
+    left: 731px;
+    top: 3003px;
+    position: absolute;
+}
+
+.our_project_image3 h1 {
+    width: 280px;
+    height: 46px;
+    left: 763px;
+    top: 3027px;
+    font-family: 'Gilroy';
+    font-size: 28px;
+    line-height: 46px;
+    letter-spacing: 0.05em;
+    color: #FFFFFF;
+    position: absolute;
+}
+
+.our_project_image3 span {
+    position: absolute;
+    width: 48px;
+    height: 46px;
+    left: 763px;
+    top: 3077px;  
+    font-family: 'Gilroy';
+    font-size: 16px;
+    line-height: 46px;   
+    letter-spacing: 0.05em;  
+    color: #FFFFFF;  
+    opacity: 0.8;
+    
+}

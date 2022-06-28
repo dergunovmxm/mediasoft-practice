@@ -1,5 +1,5 @@
 import React from "react";
-import "../components.css"
+import "./homepageStyles.css"
 
 export const HomepageButton = () => (
 

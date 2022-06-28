@@ -1,0 +1,58 @@
+.hero_image{
+    position: absolute;
+    width: 687.25px;
+    height: 579.31px;
+    left: 655.38px;
+    top: 133px;
+}
+
+.title{
+    position: absolute;
+    width: 510px;
+    height: 148px;
+    left: 212px;
+}
+
+.title_text{
+    font-family: 'Galien';
+    font-weight: bold;
+    font-size: 64px;
+    line-height: 74px;
+    letter-spacing: 0.04em;
+    color: #1F3F68;
+}
+
+.paragraph{
+    position: absolute;
+    width: 425px;
+    height: 82px;
+    left: 213px;
+    top: 369px;
+}
+
+.paragraph_text{
+    font-family: 'Gilroy';
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.05em;
+    color: #1F3F68;
+    opacity: 0.6;
+}
+
+
+.button_content{
+    position: absolute;
+    width: 220px;
+    height: 56px;
+    left: 213px;
+    top: 522px;
+    background: #5A98D0;
+    box-shadow: 5px 10px 20px rgba(53, 110, 173, 0.2);
+    border-radius: 10px;
+    font-family: 'Gilroy';
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 0.04em;
+    color: #FFFFFF;
+}
