@@ -17,6 +17,7 @@ import { HomePageFooter } from "../../components/HomePageFooter/HomePageFooter";
 export const Homepage = () => {
     return(
         <Fragment>
+            <div className="container">
             <HomepageTitle/>
             <HomepageParagraph/>
             <HomepageButton/>
@@ -29,6 +30,8 @@ export const Homepage = () => {
             <OurProjectParagraph/>
             <OurProjectImage/>
             <HomePageFooter/>
+            <HomePageFooter/>
+            </div>
         </Fragment>
     )
 }

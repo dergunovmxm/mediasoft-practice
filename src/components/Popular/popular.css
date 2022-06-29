@@ -1,0 +1,405 @@
+.popular_first_span {
+    position: absolute;
+    height: 25px;
+    left: 214px;
+    top: 548px;
+    font-family: 'Gilroy';
+    font-size: 20px;
+    line-height: 25px;
+    letter-spacing: 0.04em;
+    color: #356EAD;
+    opacity: 0.8;
+    width: 93px;
+}
+
+.popular_first_title {
+    width: 380px;
+    height: 116px;
+    left: 213px;
+    top: 605px;
+    font-family: 'Galien';
+    font-size: 48px;
+    line-height: 58px;
+    letter-spacing: 0.04em;
+    color: #1F3F68;
+    position: absolute;
+}
+
+.popular_main_paragraph {
+    width: 380px;
+    height: 150px;
+    left: 213px;
+    top: 753px;
+    font-family: 'Gilroy';
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.04em;
+    color: #000000;
+    opacity: 0.6;
+    position: absolute;
+}
+
+.popula_main_image {
+    width: 540px;
+    height: 380px;
+    left: 613px;
+    top: 605px;
+    position: absolute;
+}
+
+.popula_main_span {
+    width: 132px;
+    height: 24px;
+    left: 213px;
+    top: 933px;
+    font-family: 'Gilroy';
+    font-size: 14px;
+    line-height: 24px;
+    position: absolute;
+    letter-spacing: 0.04em;
+    color: #1F3F68;
+}
+
+.popular_first_date {
+    width: 131px;
+    height: 24px;
+    left: 213px;
+    top: 961px;
+    font-family: 'Gilroy';
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.04em;
+    color: #1F3F68;
+    opacity: 0.4;
+    position: absolute;
+}
+
+.popular_main_icon1 {
+    position: absolute;
+    height: 24px;
+    left: 433px;
+    top: 947px;
+    width: 24px;
+}
+
+.popular_main_icon2 {
+    width: 24px;
+    height: 24px;
+    left: 489px;
+    top: 947px;
+    position: absolute;
+}
+
+.popular_box2_title {
+    position: absolute;
+    width: 298px;
+    height: 76px;
+    left: 215px;
+    top: 1233px;
+
+    font-family: 'Galien';
+    font-size: 28px;
+    line-height: 38px;
+    /* or 136% */
+
+    letter-spacing: 0.04em;
+
+    /* Blue_01 */
+
+    color: #1F3F68;
+}
+
+.popular_box2_paragraph {
+    position: absolute;
+    width: 297px;
+    height: 103px;
+    left: 216px;
+    top: 1325px;
+
+    font-family: 'Gilroy';
+    font-size: 16px;
+    line-height: 26px;
+    /* or 162% */
+
+    letter-spacing: 0.04em;
+
+    color: rgba(0, 0, 0, 0.6);
+}
+
+.popula_box2_image {
+    position: absolute;
+    width: 300px;
+    height: 200px;
+    left: 213px;
+    top: 1017px;
+}
+
+.popula_box2_span {
+    position: absolute;
+    width: 132px;
+    height: 24px;
+    left: 213px;
+    top: 1444px;
+    font-family: 'Gilroy';
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.04em;
+    color: #1F3F68;
+}
+
+.popular_fbox2_date {
+    position: absolute;
+    width: 131px;
+    height: 24px;
+    left: 213px;
+    top: 1472px;
+
+    font-family: 'Gilroy';
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.04em;
+    color: rgba(0, 0, 0, 0.4);
+}
+
+.popular_box2_icon1 {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 433px;
+    top: 1458px;
+}
+
+.popular_box2_icon2 {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 489px;
+    top: 1458px;
+}
+
+.popular_box3_title {
+    position: absolute;
+    width: 298px;
+    height: 76px;
+    left: 535px;
+    top: 1234px;
+
+    font-family: 'Galien';
+    font-size: 28px;
+    line-height: 38px;
+    /* or 136% */
+
+    letter-spacing: 0.04em;
+
+    /* Blue_01 */
+
+    color: #1F3F68;
+}
+
+.popular_box3_paragraph {
+    position: absolute;
+    width: 297px;
+    height: 103px;
+    left: 536px;
+    top: 1326px;
+
+    font-family: 'Gilroy';
+    font-size: 16px;
+    line-height: 26px;
+    /* or 162% */
+
+    letter-spacing: 0.04em;
+
+    color: rgba(0, 0, 0, 0.6);
+}
+
+.popula_box3_span {
+    position: absolute;
+    width: 132px;
+    height: 24px;
+    left: 533px;
+    top: 1445px;
+
+    font-family: 'Gilroy';
+    font-size: 14px;
+    line-height: 24px;
+    /* identical to box height, or 171% */
+
+    letter-spacing: 0.04em;
+
+    /* Blue_01 */
+
+    color: #1F3F68;
+}
+
+.popula_box3_image {
+    position: absolute;
+    width: 300px;
+    height: 200px;
+    left: 533px;
+    top: 1018px;
+}
+
+.popular_fbox3_date {
+    position: absolute;
+    width: 131px;
+    height: 24px;
+    left: 533px;
+    top: 1473px;
+
+    font-family: 'Gilroy';
+    font-size: 14px;
+    line-height: 24px;
+    /* identical to box height, or 171% */
+
+    letter-spacing: 0.04em;
+
+    color: rgba(0, 0, 0, 0.4);
+}
+
+.popular_box3_icon1 {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 753px;
+    top: 1459px;
+}
+
+.popular_box3_icon2 {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 809px;
+    top: 1459px;
+}
+
+.popular_box4_title {
+    position: absolute;
+    width: 298px;
+    height: 76px;
+    left: 855px;
+    top: 1233px;
+
+    font-family: 'Galien';
+    font-size: 28px;
+    line-height: 38px;
+    /* or 136% */
+
+    letter-spacing: 0.04em;
+
+    /* Blue_01 */
+
+    color: #1F3F68;
+}
+
+.popular_box4_paragraph {
+    position: absolute;
+    width: 297px;
+    height: 103px;
+    left: 856px;
+    top: 1325px;
+
+    font-family: 'Gilroy';
+    font-size: 16px;
+    line-height: 26px;
+    /* or 162% */
+
+    letter-spacing: 0.04em;
+
+    color: rgba(0, 0, 0, 0.6);
+}
+
+.popula_box4_image {
+    position: absolute;
+    width: 300px;
+    height: 200px;
+    left: 853px;
+    top: 1017px;
+}
+
+.popula_box4_span {
+
+    position: absolute;
+    width: 132px;
+    height: 24px;
+    left: 853px;
+    top: 1444px;
+
+    font-family: 'Gilroy';
+    font-size: 14px;
+    line-height: 24px;
+    /* identical to box height, or 171% */
+
+    letter-spacing: 0.04em;
+
+    /* Blue_01 */
+
+    color: #1F3F68;
+}
+
+.popular_fbox4_date {
+    position: absolute;
+    width: 131px;
+    height: 24px;
+    left: 853px;
+    top: 1472px;
+
+    font-family: 'Gilroy';
+    font-size: 14px;
+    line-height: 24px;
+    /* identical to box height, or 171% */
+
+    letter-spacing: 0.04em;
+
+    color: rgba(0, 0, 0, 0.4);
+}
+
+.popular_box4_icon1 {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 1073px;
+    top: 1458px;
+}
+
+.popular_box4_icon2 {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 1129px;
+    top: 1458px;
+}
+
+.popular_last_span {
+    position: absolute;
+    width: 210px;
+    height: 20px;
+    left: 944px;
+    top: 1550px;
+
+    font-family: 'Gilroy';
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    text-align: right;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+
+    /* blue_03 */
+
+    color: #356EAD;
+
+    opacity: 0.8;
+}
+
+.popular_last_line{
+    
+position: absolute;
+width: 940px;
+height: 0px;
+left: 213px;
+top: 1594px;
+
+border: 1px solid rgba(0, 0, 0, 0.2);
+}
