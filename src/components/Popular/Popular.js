@@ -11,6 +11,10 @@ import line from "../../images/line2.png"
 export const Popular = () => {
     return (
         <div className="popular_container">
+
+            <h1 className="start_title">Blog Afrianska</h1>
+            <p className="start_paragraph">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+
             <div className="popular_box1">
                 <span className="popular_first_span">POPULAR</span>
                 <h1 className="popular_first_title">Feugiat sodales at nullam tellus.</h1>

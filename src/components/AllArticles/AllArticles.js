@@ -8,6 +8,8 @@ import art5 from "../../images/art5.png"
 import icon1 from "../../images/icon1.png"
 import icon2 from "../../images/icon2.png"
 import line from "../../images/line2.png"
+import right from "../../images/right.png"
+import left from "../../images/left.png"
 
 export const AllArticles = () => {
     return (
@@ -68,6 +70,14 @@ export const AllArticles = () => {
 
             <span className="popular_last_span">See All Popular Article</span>
             <img className="popular_last_line" src={line}/>
+
+            <img className="articles_left" src={left}/>
+            <img className="articles_right" src={right}/>
+
+            <span className="articles_new">New post</span>
+            <span className="articles_old">Old post</span>
+
+
         </div>
     )
 }

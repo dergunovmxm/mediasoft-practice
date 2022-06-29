@@ -403,3 +403,41 @@ top: 1594px;
 
 border: 1px solid rgba(0, 0, 0, 0.2);
 }
+
+.start_title{
+    
+position: absolute;
+width: 315px;
+height: 74px;
+left: 526px;
+top: 180px;
+
+font-family: 'Gilroy';
+font-size: 44px;
+line-height: 74px;
+/* identical to box height, or 168% */
+
+text-align: center;
+letter-spacing: 0.04em;
+
+color: #FFFFFF;
+}
+
+.start_paragraph{
+    position: absolute;
+width: 780px;
+height: 60px;
+left: 293px;
+top: 270px;
+
+font-family: 'Gilroy';
+font-size: 20px;
+line-height: 30px;
+/* or 150% */
+
+text-align: center;
+letter-spacing: 0.04em;
+
+color: rgba(255, 255, 255, 0.4);
+
+}

@@ -49,7 +49,7 @@
     width: 317px;
 }
 
-.footer p {
+.first_par {
     position: absolute;
     width: 460px;
     height: 80px;
@@ -63,19 +63,7 @@
     opacity: 0.6;
 }
 
-.footer span {
-    position: absolute;
-    height: 26px;
-    left: 213px;
-    top: 779px;
-    font-family: 'Gilroy';
-    font-size: 16px;
-    line-height: 26px;
-    letter-spacing: 0.05em;
-    color: #FFFFFF;
-    opacity: 0.4;
-    width: 388px;
-}
+
 
 .footer_logo {
     position: absolute;
@@ -85,7 +73,28 @@
 
 }
 
-.footer h2 {
+.finish_span{
+    position: absolute;
+width: 288px;
+height: 26px;
+left: 213px;
+top: 5071px;
+
+font-family: 'Gilroy';
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+letter-spacing: 0.05em;
+
+/* white */
+
+color: #FFFFFF;
+
+opacity: 0.4;
+}
+
+.footer_start_title {
     width: 125px;
     height: 46px;
     left: 277px;
@@ -133,31 +142,6 @@
     border-spacing: 77px;
 }
 
-.footer_table tr {
-
-    width: 163px;
-    height: 34px;
-    left: 613px;
-    font-family: 'Gilroy';
-    font-size: 16px;
-    line-height: 26px;
-    letter-spacing: 0.05em;
-    color: #FFFFFF;
-
-}
-
-.footer_table th {
-    height: 34px;
-    left: 613px;
-    font-family: 'Gilroy';
-    font-size: 16px;
-    line-height: 26px;
-    letter-spacing: 0.05em;
-    color: #FFFFFF;
-    font-size: bold;
-    width: 163px;
-}
-
 
 .footer_first_title {
     position: absolute;
@@ -197,4 +181,80 @@
 
     color: #FFFFFF;
 
+}
+
+#span_1{
+    position: absolute;
+    width: 49px;
+    height: 26px;
+    left: 613px;
+    top: 549px;
+
+    font-family: 'Gilroy';
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height, or 162% */
+
+    letter-spacing: 0.05em;
+
+    /* white */
+
+    color: #FFFFFF;
+}
+
+#span_2 {
+    position: absolute;
+    width: 49px;
+    height: 26px;
+    left: 613px;
+    top: 591px;
+
+    font-family: 'Gilroy';
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height, or 162% */
+
+    letter-spacing: 0.05em;
+
+    /* white */
+
+    color: #FFFFFF;
+}
+
+#span3 {
+    position: absolute;
+    width: 49px;
+    height: 26px;
+    left: 613px;
+    top: 633px;
+
+    font-family: 'Gilroy';
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height, or 162% */
+
+    letter-spacing: 0.05em;
+
+    /* white */
+
+    color: #FFFFFF;
+}
+
+#span4 {
+    position: absolute;
+    width: 49px;
+    height: 26px;
+    left: 613px;
+    top: 675px;
+
+    font-family: 'Gilroy';
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height, or 162% */
+
+    letter-spacing: 0.05em;
+
+    /* white */
+
+    color: #FFFFFF;
 }

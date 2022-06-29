@@ -11,6 +11,7 @@ import { OurProjectTitle } from "../../components/OurProjects/OurProjectTitle";
 import { OurProjectParagraph } from "../../components/OurProjects/OurProjectParagraph";
 import { OurProjectImage } from "../../components/OurProjects/OurProjectImage";
 import { HomePageFooter } from "../../components/HomePageFooter/HomePageFooter";
+import {Footer} from '../../components/Footer'
 
 
 
@@ -30,7 +31,9 @@ export const Homepage = () => {
             <OurProjectParagraph/>
             <OurProjectImage/>
             <HomePageFooter/>
-            <HomePageFooter/>
+            <Footer/>
+
+            
             </div>
         </Fragment>
     )
