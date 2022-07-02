@@ -1,27 +1,13 @@
-
-
-input{
-    position: absolute;
-    width: 940px;
-    height: 56px;
-    left: 213px;
-    top: 436px;
-    background: #F4F4F4;
-    border-radius: 10px;
-
+.search_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
-input placeholder {
-    
-    position: absolute;
-    width: 103px;
-    height: 19px;
-    left: 285px;
-    top: 456px;
-    font-family: 'Gilroy';
-    font-size: 16px;
-    line-height: 19px;
-
-    color: #1F3F68;
-    opacity: 0.6;  
+.search_container input {
+    margin: 50px;
+    width: 60%;
+    height: 56px;
+    background: #F4F4F4;
+    border-radius: 10px;
 }

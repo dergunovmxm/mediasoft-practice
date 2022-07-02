@@ -1,0 +1,66 @@
+.main_popular_container {
+    display: flex;
+    justify-content: center;
+}
+
+
+.main_popular_row {
+    display: flex;
+    width: 60%;
+}
+
+.main_popular_col {
+    display: block;
+    width: 50%;
+}
+
+.popula_main_image {
+    width: 100%;
+}
+
+.popular_first_title {
+    font-family: 'Galien';
+    font-size: 48px;
+    line-height: 58px;
+    letter-spacing: 0.04em;
+    color: #1F3F68;
+}
+
+.popular_main_paragraph {
+    font-family: 'Gilroy';
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.04em;
+    color: #000000;
+    opacity: 0.6;
+    width: 80%;
+}
+
+
+.col {
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+}
+
+.row img {
+    margin-right: 30px;
+    margin-top: 10%;
+}
+
+.popular_first_date {
+    font-family: 'Gilroy';
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.04em;
+    color: #1F3F68;
+}
+
+.popula_main_span {
+    font-family: 'Gilroy';
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.04em;
+    color: #1F3F68;
+    opacity: 0.4;
+}

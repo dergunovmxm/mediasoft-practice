@@ -13,7 +13,7 @@ import { ContactUs } from "./pages/contactUs/ContactUs";
 function App() {
   return (
     <BrowserRouter>
-      <Navbar/>
+      {/* <Navbar/> */}
       <Routes>
           <Route path="/" element={<Homepage/>}/>
           <Route path="/blogpage" element={<Blogpage/>}/>

@@ -1,0 +1,16 @@
+.line_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.line_row {
+    margin-top: 20px;
+
+}
+
+.line_col span{ 
+    display: flex;
+    justify-content: flex-end;
+
+}
