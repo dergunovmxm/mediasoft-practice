@@ -3,6 +3,7 @@ import "./ourProjectsStyle.css"
 import img1 from "../../images/our_project_img1.png"
 import img2 from "../../images/our_project_img2.png"
 import img3 from "../../images/our_project_img3.png"
+import { HomePageFooter } from "../../components/HomePageFooter/HomePageFooter";
 
 
 export const OurProjectImage = () => (
@@ -24,6 +25,10 @@ export const OurProjectImage = () => (
             <h1>Car-Rapetition App</h1>
             <span>Board</span>
         </div>
+        <div className="our_project_foot">
+        <HomePageFooter/>
+        </div>
+        
    
     </div>
 )

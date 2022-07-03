@@ -19,7 +19,7 @@ export const Homepage = () => {
     return(
         <Fragment>
             
-            {/* <HomepageTitle/>
+            <HomepageTitle/>
             <HomepageParagraph/>
             <HomepageButton/>
             <Hero/>
@@ -30,9 +30,9 @@ export const Homepage = () => {
             <OurProjectTitle/>
             <OurProjectParagraph/>
             <OurProjectImage/>
-            <HomePageFooter/> 
-            <Footer/>*/}
+             
             
+
         </Fragment>
     )
 }

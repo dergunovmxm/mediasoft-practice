@@ -28,6 +28,7 @@ export const Blogpage = () => {
             <AllArticles/>
             <Arrows/>
             <Footer/>
+
         </div>
 
     )

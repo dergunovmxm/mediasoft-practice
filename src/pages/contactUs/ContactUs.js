@@ -14,7 +14,7 @@ export const ContactUs = () => {
             </div>
             <ContactForm/>
             <Map/>
-            <Footer />
+            <Footer/>
         </div>
     )
 }
