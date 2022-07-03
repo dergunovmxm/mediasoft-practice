@@ -5,8 +5,9 @@ import { Startimage } from "../../components/Startimage/Startimage";
 import { MainPopular } from "../../components/MainPopular/MainPopular";
 import { Popular } from "../../components/Popular/Popular";
 import {Line } from "../../components/Line/Line";
+import {Arrows } from "../../components/Arrows/Arrows";
 import { AllArticles } from "../../components/AllArticles/AllArticles";
-import { BlogpageFooter } from "../../components/BlogpageFooter/BlogpageFooter";
+import { Footer } from "../../components/Footer";
 
 export const Blogpage = () => {
     return (
@@ -25,8 +26,8 @@ export const Blogpage = () => {
             <Line/>
             <span className="popular_first_span">ALL ARTICLE</span>
             <AllArticles/>
-
-
+            <Arrows/>
+            <Footer/>
         </div>
 
     )

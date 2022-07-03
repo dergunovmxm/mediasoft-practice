@@ -18,8 +18,8 @@ import {Footer} from '../../components/Footer'
 export const Homepage = () => {
     return(
         <Fragment>
-            <div className="container">
-            <HomepageTitle/>
+            
+            {/* <HomepageTitle/>
             <HomepageParagraph/>
             <HomepageButton/>
             <Hero/>
@@ -30,11 +30,9 @@ export const Homepage = () => {
             <OurProjectTitle/>
             <OurProjectParagraph/>
             <OurProjectImage/>
-            <HomePageFooter/>
-            <Footer/>
-
+            <HomePageFooter/> 
+            <Footer/>*/}
             
-            </div>
         </Fragment>
     )
 }

@@ -1,0 +1,23 @@
+.arrow_container {
+    display: flex;
+    justify-content: center;
+
+}
+
+.arrow_col {
+    margin-top: 50px;
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.arrow_row {
+    display: flex;
+    font-family: 'Gilroy';
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: 0.04em;
+    color: #356EAD;
+
+}

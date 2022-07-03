@@ -1,22 +1,25 @@
+.navbar_images{
 
-.logo_image{
-    margin-left: 86px;
-    margin-top: 48px;
-    width: 48px;
-    height: 48px;
+    display: flex;
+    justify-content: space-between;
+    margin: 50px
+}
+
+.navbar_col{
+    margin-top: 20px;
 }
 
 
-.what_we_do_title{
+.what_we_do_title {
     position: absolute;
-    width: 358px;   
+    width: 358px;
     height: 138px;
     left: 213px;
     top: 960px;
 }
 
 
-.hero_image{
+.hero_image {
     width: 687.25px;
     height: 579.31px;
     left: 655.38px;
@@ -24,31 +27,46 @@
     position: absolute;
 }
 
-.footer{
-    position: absolute;
-    height: 869px;
-    left: 0px;
-    top: 4292px;
+.footer {
+    margin-top: 40px;
+    width: 90%;
     background: #316099;
     border-radius: 0px 200px 0px 0px;
-    width: 1270px;
+    display: flex;
+
+    justify-content: center;
+}
+
+.footer_container {
+    margin-top: 50px;
+
+    width: 60%;
+}
+
+.footer_row {
+    margin-top: 50px;
+
+    display: flex;
+    justify-content: space-between;
 
 }
-.line1{
-    position: absolute;
-    height: 0px;
-    left: 0px;
-    top: 391px;
-    opacity: 0.4;
-    border: 1px solid #FFFFFF;
-    width: 1073px;
-}
-.footer_button{
-    position: absolute;
-    height: 56px;
-    left: 853px;
-    top: 165px;
+
+.footer_col {
+
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
     
+
+}
+
+.footer_button {
+
+    width: 220px;
+    height: 56px;
     background: #5A98D0;
     border-radius: 10px;
     font-family: 'Gilroy';
@@ -57,135 +75,80 @@
     text-align: center;
     letter-spacing: 0.04em;
     color: #FFFFFF;
-    width: 220px;
 }
 
-.footer_title{
+
+.footer_col ul {
+    list-style-type: none;
+    font-family: 'Gilroy';
+    font-size: 16px;
+    line-height: 40px;
+    letter-spacing: 0.05em;
+    color: #FFFFFF;
+
     position: absolute;
-    height: 92px;
-    left: 213px;
-    top: 91px;
+    top: 20px
+}
+
+.footer_title {
+
     font-family: 'Gilroy';
     font-size: 36px;
     line-height: 46px;
     letter-spacing: 0.05em;
     color: #FFFFFF;
-    width: 317px;
+    width: 80%;
+    margin-left: 0;
 }
 
-.footer p{
-    position: absolute;
-width: 460px;
-height: 80px;
-left: 213px;
-top: 215px;
-font-family: 'Gilroy';
-font-size: 16px;
-line-height: 26px;
-letter-spacing: 0.05em;
-color: #FFFFFF;
-opacity: 0.6;
+.footer_col p {
+    font-family: 'Gilroy';
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.05em;
+    color: #FFFFFF;
+    margin-right: 10px;
+    opacity: 0.6;
 }
 
-.footer span{
-    position: absolute;
-    height: 26px;
-    left: 213px;
-    top: 779px;
+.footer_box {
+    display: flex;
+    float: right;
+    align-items: center;
+    width: 100%;
+
+}
+
+.footer_box img {
+    width: 48px;
+    height: 48px;
+}
+
+.footer_box p {
+    font-family: 'Gilroy';
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.05em;
+    color: #FFFFFF;
+}
+
+
+.footer_row span {
     font-family: 'Gilroy';
     font-size: 16px;
     line-height: 26px;
     letter-spacing: 0.05em;
     color: #FFFFFF;
     opacity: 0.4;
-    width: 388px;
 }
 
-.footer_logo{
-    position: absolute;
-    left: 213px;
-    top: 487px;
-    right: 1009px;
 
-}
-
-.footer h2{
-    width: 125px;
-    height: 46px;
-    left: 277px;
-    top: 468px;
-    font-family: 'Gilroy';
-    font-size: 28px;
-    line-height: 46px;
-    letter-spacing: 0.02em;   
-    color: #FFFFFF;
-    position: absolute;
-}
-
-.footer_title_1{
-    position: absolute;
-    height: 30px;
-    left: 613px;
-    top: 487px;  
-    font-family: 'Gilroy';
-    font-size: 20px;
-    line-height: 30px;   
-    letter-spacing: 0.05em; 
-    color: #FFFFFF;
-    width: 94px;
-}
-
-.footer_title_2{
-    width: 97px;
-    height: 30px;
-    left: 853px;
-    top: 487px;
-    font-family: 'Gilroy';
-    font-size: 20px;
-    line-height: 30px;
-    letter-spacing: 0.05em;
-    color: #FFFFFF;
-    position: absolute;
-}
-
-.footer_table{
-    width: 260px;
-    height: 214px;
-    left: 613px;
-    top: 487px;
-    position: absolute;
-    border-spacing: 77px;
-}
-
-.footer_table tr{
-
-    width: 163px;
-    height: 34px;
-    left: 613px;
-    font-family: 'Gilroy';
-    font-size: 16px;
-    line-height: 26px;
-    letter-spacing: 0.05em;
-    color: #FFFFFF;
-
-}
-.footer_table th{
-    height: 34px;
-    left: 613px;
-    font-family: 'Gilroy';
-    font-size: 16px;
-    line-height: 26px;
-    letter-spacing: 0.05em;
-    color: #FFFFFF;
-    font-size: bold;
-    width: 163px;
-}
 @font-face {
-	font-family: 'Galien'; 
-	src: url("../fonts/Galien/TTF/Galien-Regular.ttf")format("woff"); 
+    font-family: 'Galien';
+    src: url("../fonts/Galien/TTF/Galien-Regular.ttf")format("woff");
 }
 
 @font-face {
-	font-family: 'Gilroy'; 
-	src: url("../fonts/Gilroy/Gilroy-Regular.woff")format("woff"); 
+    font-family: 'Gilroy';
+    src: url("../fonts/Gilroy/Gilroy-Regular.woff")format("woff");
 }

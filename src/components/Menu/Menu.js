@@ -6,12 +6,18 @@ import { myFunction } from "../../scripts/menu";
 export const Menu = () => (
 
   <div className="dropdown">
-      <img className="dropbtn" src={vector} onClick={myFunction} />
+    <img className="dropbtn" src={vector} onClick={myFunction} />
 
     <div id="myDropdown" className="dropdown-content">
-      <a href="#">Главная</a>
-      <a href="#">О Нас</a>
-      <a href="#">Контакты</a>
+
+      <ul>
+        <li><strong><a>About Us</a></strong></li><br />
+        <li><a href="#">About</a></li>
+        <li><a href="#">What We Do</a></li>
+        <li><a href="#">Project</a></li>
+        <li><a href="#">How It  Work With Us</a></li>
+      </ul>
+
     </div>
   </div>
 )
